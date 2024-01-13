@@ -1,2 +1,2 @@
-# config
-using my config files
+# kannan-xiao4's config
+個人で使用しているコンフィグのバックアップや、構築手順のためのリポジトリ。
